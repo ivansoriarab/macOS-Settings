@@ -1,0 +1,38 @@
+# Accesibility
+
+## Zoom
+- **Use keyboard shortcuts to zoom:** On
+- **Use trackpad gesture to zoom:** Off
+- **Use scroll gesture with modifier keys to zoom:** On
+- **Modifier key for scroll gesture:** Command
+- **Zoom style:**
+    - Picture-in-Picture
+    - **Size and Location:** Nearest a 1/4 of the screen size, bottom-right
+    - **Advanced:**
+        - **Appearance:**
+            - **Zoomed image moves**: When Pointer Reaches Edge
+            - **Restore zoom factor on startup:** Off
+            - **Invert colours in split screen and picture-in-picture-style:** Off
+            - **Smooth images:** On
+            - **Flash screen when notification banner appears outside zoom view:** On
+            - **Disable Universal Control while zoomed in:** Off
+            - **Keep picture-in-picture window stationary:** On
+        - **Controls:**
+            - **Use keyboard shortcuts to adjust zoom window:** On
+            - **Set range for rapid zooming in and out:**
+                - **Maximum zoom:** 1,0
+                - **Minimum zoom:** 1,0
+        - **Follow Focus:**
+            - **Follow keyboard focus:** Never
+            - **Move screen image when focus item is:** Near Screen Edge
+            - **Move screen image:** Just enough to show focus item
+        - **Movement speed:** Fastest
+    - **Shortcuts:**
+        - **Toggle between full screen and picture-in-picture:** Alt + Command + F, Off
+        - **Move cursor to next monitor:** None, Off
+        - **Use trackpad gesture to move cursor between monitors:** Off
+    - **Modifiers for Temporary Actions:**
+        - **Toggle zoom:** Control + Alt, Off
+        - **Detach zoom view from pointer:** Control + Command, Off
+        - **Disable panning:** None, Off
+- **Hover Text:** Off
