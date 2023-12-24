@@ -1,4 +1,4 @@
-# Accesibility
+# Accessibility
 
 ## Zoom
 - **Use keyboard shortcuts to zoom:** On
